@@ -21,3 +21,11 @@ We welcome evidence-backed corrections, ideas, documentation and community propo
 ## Licensing
 
 Original written material in this repository is offered under [CC BY 4.0](LICENSE), with attribution. Third-party material retains its original rights and must not be imported without checking its licence.
+
+## Community Contributions
+
+AIHACKBins welcomes contributions from security researchers, developers, students and enthusiasts.
+
+Our community follows an open and transparent contribution process. Proposed changes are submitted through GitHub pull requests and reviewed before being integrated into the project.
+
+**Open Knowledge. Stronger Security.**
